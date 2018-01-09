@@ -1,3 +1,5 @@
 Test file 1
 Fix of issue 1
 Fix of issue 3
+Fix of issue 2
+
