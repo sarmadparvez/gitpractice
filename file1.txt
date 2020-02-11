@@ -1,3 +1,3 @@
 Test file 1
 
-Line added by feature2. Line updated by feature2.
+This is my new commit in feature 1 branch. Line added by feature2. Line updated by feature2.
